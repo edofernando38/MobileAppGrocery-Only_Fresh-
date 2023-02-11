@@ -1,0 +1,10 @@
+.active {
+    color: #5F8D4E;
+    transition: 0.5s;
+}
+
+.name {
+    color: #5F8D4E;
+    transform: translateZ(-8px);
+    transition: 1;
+}
